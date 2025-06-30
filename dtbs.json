@@ -1,5 +1,8 @@
 {
- "dtbs": [
-  "6285867837932"
- ]
+  "nomer": {
+    "6285867837932@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    }
+  }
 }
